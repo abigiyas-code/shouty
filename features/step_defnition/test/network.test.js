@@ -10,7 +10,7 @@ describe('Person', () => {
   	   network = new Newtwork(range)
 	   const message = "Free bagels!"
 })
-
+})
 it('broadcast a message to a listener within range', function () {
     const shouterLocation = 0
     const listenerLocation = 90
