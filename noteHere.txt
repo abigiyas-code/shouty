@@ -1,0 +1,5 @@
+# Basic steps done here
++ Take a neccessoray scenario 
++ Include only essential information for the reader
++ Write a hard code even the range had canged it can pass 
+
